@@ -56,8 +56,12 @@ def keyboard(root,nkeys,form):
         steps = [2,2,1,2,2,2,1]
         note = keys_gen(note,steps,nkeys)
 
-    if form.lower() == 'min':
+    if form.lower() == 'harmin':
         steps = [2,1,2,2,1,3,1]
+        note = keys_gen(note,steps,nkeys)
+
+    if form.lower() == 'natmin':
+        steps = [2,1,2,2,1,2,2]
         note = keys_gen(note,steps,nkeys)
 
     if form.lower() == 'pent':
