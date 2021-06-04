@@ -25,9 +25,9 @@ This will be a growing python library of useful code that I make. Currently cont
 
 `root` input can be obtained using the `rooot(note)` function described above. `nkeys` is a design choice. 
 
-`form` has the following options: `maj`, `min`, `pent`, `minpent`, `blues` 
+`form` has the following options: `maj`, `harmin`, `natmin`, `pent`, `minpent`, `blues` 
 
-Currently `min` only corresponds to the harmonic minor scale and will eventually be increased to include the melodic minor (maybe)
+Melodic minor is not currently supported.
 
 #### Sample usage:
 
