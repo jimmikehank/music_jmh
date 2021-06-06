@@ -1,0 +1,1 @@
+{"rustc":3058707760394983085,"features":"[]","target":4797582987318879458,"profile":13719610756125836611,"path":12755305452399508617,"deps":[[7820525733556992089,"petgraph",false,16662808130742002583]],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\daggy-ff570ba24409e61f\\dep-lib-daggy"}}],"rustflags":[],"metadata":14409653267671407701,"config":0,"compile_kind":0}

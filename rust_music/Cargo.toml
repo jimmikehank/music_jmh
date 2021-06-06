@@ -7,3 +7,6 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+portaudio = "0.6.3"
+pitch_calc = "0.11.0"
+instrument = "0.1.0"
