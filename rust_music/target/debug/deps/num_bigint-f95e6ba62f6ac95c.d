@@ -1,0 +1,12 @@
+/home/james/projects/music/rust_music/target/debug/deps/num_bigint-f95e6ba62f6ac95c.rmeta: /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/home/james/projects/music/rust_music/target/debug/deps/libnum_bigint-f95e6ba62f6ac95c.rlib: /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/home/james/projects/music/rust_music/target/debug/deps/num_bigint-f95e6ba62f6ac95c.d: /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs:

@@ -1,7 +1,8 @@
-extern crate portaudio;
-extern crate pitch_calc;
-extern crate instrument;
+extern crate musiclib;
 
 fn main() {
-    println!("Hello, world!");
+    let mut root: &str = "G#";
+    let root_freq: f32 = musiclib::pitchcalc(root);
+
+    println!("{}: {}Hz",root,root_freq);
 }
