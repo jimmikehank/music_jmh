@@ -28,6 +28,6 @@ The mode (`form` in function call) must be a lowercase string slice, and can be:
 
 `let notes = musiclib::keysig(root_freq,8,"maj")`
 
-`println!("{:?}",notes);
+`println!("{:?}",notes);`
 
 would return `[51.913113, 58.270504, 65.40643, 69.29571, 77.78181, 87.30714, 97.998955, 103.82628]`
