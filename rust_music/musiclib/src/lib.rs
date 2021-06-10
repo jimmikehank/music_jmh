@@ -107,7 +107,7 @@ pub fn keysig(root:f32, nkeys:usize, form:&str) -> Vec<f32> {
             return vec;
         }
 
-        blues => {
+        "blues" => {
             let steps = vec![3,2,1,1,3,2];
             let vec = keys_gen(root,steps,nkeys);
             return vec;
