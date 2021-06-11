@@ -1,0 +1,12 @@
+/home/james/projects/music/rust_music/target/debug/deps/portaudio-7b2cd93d026e875a.rmeta: /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/lib.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/error.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ext/mod.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ffi.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/stream.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/types.rs
+
+/home/james/projects/music/rust_music/target/debug/deps/libportaudio-7b2cd93d026e875a.rlib: /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/lib.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/error.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ext/mod.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ffi.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/stream.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/types.rs
+
+/home/james/projects/music/rust_music/target/debug/deps/portaudio-7b2cd93d026e875a.d: /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/lib.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/error.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ext/mod.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ffi.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/stream.rs /home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/types.rs
+
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/lib.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/error.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ext/mod.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/ffi.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/stream.rs:
+/home/james/.cargo/registry/src/github.com-1ecc6299db9ec823/portaudio-0.7.0/src/types.rs:

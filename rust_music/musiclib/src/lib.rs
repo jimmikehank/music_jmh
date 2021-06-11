@@ -6,7 +6,6 @@ pub fn pitchcalc(note: &str) -> f32 {
 
     match note {
         "A" => {
-            println!("Fuck");
             return base_pitch*2.;
         }
 

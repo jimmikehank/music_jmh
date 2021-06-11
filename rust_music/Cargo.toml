@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 musiclib = {path = "/home/james/projects/music/rust_music/musiclib"}
+portaudio = "0.7.0"
+periodicsynth = "0.1.6"
