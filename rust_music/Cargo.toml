@@ -7,6 +7,6 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-musiclib = {path = "/home/james/projects/music/rust_music/musiclib"}
-portaudio = "0.7.0"
+musiclib = {path = "./musiclib"}
 periodicsynth = "0.1.6"
+cpal = "0.14.2"
